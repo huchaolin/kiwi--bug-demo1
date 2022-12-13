@@ -1,0 +1,25 @@
+{
+  "kiwiDir": "./i18n/lang",
+  "srcLang": "zh-CN",
+  "distLangs": [
+    "en-US",
+    "zh-HK"
+  ],
+  "googleApiKey": "",
+  "baiduApiKey": {
+    "appId": "20220929001360951",
+    "appKey": "5LtBd15s6dGiQBX8kXRu"
+  },
+  "baiduLangMap": {
+    "en-US": "en",
+    "zh-HK": "cht"
+  },
+  "translateOptions": {
+    "concurrentLimit": 10,
+    "requestOptions": {}
+  },
+  "defaultTranslateKeyApi": "Pinyin",
+  "importI18N": "import I18N from '@i18n';",
+  "ignoreDir": ["./i18n"],
+  "ignoreFile": ""
+}
