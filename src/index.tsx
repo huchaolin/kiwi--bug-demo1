@@ -5,8 +5,6 @@ import ReactDom from 'react-dom';
 class RootComponent extends Component {
     constructor(props) {
         super(props);
-        this.state = {};
-        this.state.toggle = true;
     }
 
     render() {
